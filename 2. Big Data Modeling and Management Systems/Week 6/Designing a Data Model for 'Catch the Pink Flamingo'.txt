@@ -9,7 +9,7 @@ Part 2
 I. List all node and edge properties for a graph.
 
 Nodes: User, Chat Session, Chat Text
-Edges: starts, joins, leaves, mentions, writes, contains, 
+Edges: starts, joins, leaves, mentions, writes, contains
 
 II. Briefly explain how you would use the graph to answer the following five questions?
 
