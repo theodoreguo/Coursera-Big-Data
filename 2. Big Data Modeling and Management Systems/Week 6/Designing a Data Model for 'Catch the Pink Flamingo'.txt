@@ -1,0 +1,28 @@
+Part 1
+
+1. userID is a primary key for this relation.
+2. sessionID: long; missionID: long; isHit: bool.
+3. Score is new added key (based on the hit points).
+
+Part 2
+
+I. List all node and edge properties for a graph.
+
+Nodes: User, Chat Session, Chat Text
+Edges: starts, joins, leaves, mentions, writes, contains, 
+
+II. Briefly explain how you would use the graph to answer the following five questions?
+
+1. Compare the total number of joins filtered by Chat Session (different team).
+2. Base on writes certain time period before users leave the Chat Session.
+3. Do word count calculation for Chat Text of designated Chat Session during a specific time period.
+4. Base on the number of starts and joins of each user participating in the specific Chat Session.
+5. Base on the number of combinations of a same user ID and different Chat Session IDs at a specific time.
+
+Part 3
+
+1. flamingos -> beak-color -> bright-red, pink, yellow
+2. flamingos -> feather-color -> pink, red, dark-red
+3. flamingos -> size -> small, medium, large
+4. flamingos -> gender -> male, female
+5. flamingos -> appearance -> plain, with hat, with glasses
